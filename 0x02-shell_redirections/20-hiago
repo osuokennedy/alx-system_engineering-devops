@@ -1,2 +1,2 @@
 #!/bin/bash
-echo < "Chicago" | sort -d cC
+echo < "Chicago" | tr -c cC
